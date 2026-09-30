@@ -17,9 +17,6 @@ html {
 
 h1 {
   font-family: "Josefin Sans", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
   font-size: 2rem;
   letter-spacing: 1.2em;
   text-shadow: 2px 2px 3px gray;
